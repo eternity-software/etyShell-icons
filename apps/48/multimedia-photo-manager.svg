@@ -1,14 +1,21 @@
 <svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="73" y="72" width="365" height="369" rx="61" fill="#F3F3F3"/>
+<g clip-path="url(#clip0)">
+<rect width="509.22" height="514.8" rx="85.1024" fill="#F3F3F3"/>
 <g opacity="0.4">
-<circle cx="281.39" cy="181.434" r="40.3424" transform="rotate(-116.774 281.39 181.434)" fill="#6BF549"/>
-<circle cx="180.542" cy="232.319" r="40.3424" transform="rotate(-116.774 180.542 232.319)" fill="#FF8878"/>
-<circle cx="229.61" cy="329.565" r="40.3424" transform="rotate(-116.774 229.61 329.565)" fill="#E478FF"/>
-<circle cx="330.458" cy="278.681" r="40.3424" transform="rotate(-116.774 330.458 278.681)" fill="#78AEFF"/>
+<circle cx="290.729" cy="152.674" r="56.2825" transform="rotate(-116.774 290.729 152.674)" fill="#6BF549"/>
+<circle cx="150.034" cy="223.665" r="56.2825" transform="rotate(-116.774 150.034 223.665)" fill="#FF8878"/>
+<circle cx="218.49" cy="359.335" r="56.2825" transform="rotate(-116.774 218.49 359.335)" fill="#E478FF"/>
+<circle cx="359.185" cy="288.344" r="56.2825" transform="rotate(-116.774 359.185 288.344)" fill="#78AEFF"/>
 </g>
-<circle cx="221.918" cy="184.718" r="40.3424" transform="rotate(-161.774 221.918 184.718)" fill="#6BF549"/>
-<circle cx="186.589" cy="292.01" r="40.3424" transform="rotate(-161.774 186.589 292.01)" fill="#FF8878"/>
-<circle cx="290.049" cy="326.077" r="40.3424" transform="rotate(-161.774 290.049 326.077)" fill="#E478FF"/>
-<circle cx="325.378" cy="218.786" r="40.3424" transform="rotate(-161.774 325.378 218.786)" fill="#78AEFF"/>
-<circle cx="256" cy="256" r="58" fill="white"/>
+<circle cx="207.759" cy="157.256" r="56.2825" transform="rotate(-161.774 207.759 157.256)" fill="#6BF549"/>
+<circle cx="158.471" cy="306.942" r="56.2825" transform="rotate(-161.774 158.471 306.942)" fill="#FF8878"/>
+<circle cx="302.809" cy="354.467" r="56.2825" transform="rotate(-161.774 302.809 354.467)" fill="#E478FF"/>
+<circle cx="352.098" cy="204.784" r="56.2825" transform="rotate(-161.774 352.098 204.784)" fill="#78AEFF"/>
+<circle cx="255.308" cy="256.702" r="80.9171" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="512" height="512" fill="white"/>
+</clipPath>
+</defs>
 </svg>
